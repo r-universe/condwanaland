@@ -1,10 +1,10 @@
 [
   {
-    "package": "summariser",
+    "package": "scrobbler",
     "oncran": true
   },
   {
-    "package": "scrobbler",
+    "package": "summariser",
     "oncran": true
   }
 ]
