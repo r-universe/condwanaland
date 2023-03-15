@@ -1,10 +1,22 @@
 [
   {
+    "package": "fishdata",
+    "oncran": true
+  },
+  {
     "package": "scrobbler",
     "oncran": true
   },
   {
     "package": "summariser",
+    "oncran": true
+  },
+  {
+    "package": "verhoeff",
+    "oncran": true
+  },
+  {
+    "package": "words",
     "oncran": true
   }
 ]
