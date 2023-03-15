@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "scrobbler"]
-	path = scrobbler
-	url = https://github.com/condwanaland/scrobbler
-	shallow = true
-	registered = true
 [submodule "summariser"]
 	path = summariser
 	url = https://github.com/condwanaland/summariser
+	shallow = true
+	registered = true
+[submodule "scrobbler"]
+	path = scrobbler
+	url = https://github.com/condwanaland/scrobbler
 	shallow = true
 	registered = true
